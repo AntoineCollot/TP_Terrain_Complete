@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_Terrain
+  m_Shader: {fileID: 4800000, guid: 91aca3b079e539c4eaf9e6a6ebbdc350, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _GrassBlendAmount: 0.587
+    - _GrassSlopeThreshold: 0.079
+    m_Colors:
+    - _GrassColour: {r: 0.28435385, g: 0.6037736, b: 0.0768957, a: 1}
+    - _RockColour: {r: 0.26415092, g: 0.23713061, b: 0.17817727, a: 1}
+  m_BuildTextureStacks: []
